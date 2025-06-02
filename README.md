@@ -84,4 +84,5 @@ response = requests.post(
     json={"text": "Your question here"}
 )
 print(response.json())
-``` 
+```
+![Screenshot 2025-06-02 174829](https://github.com/user-attachments/assets/347744e3-3c33-47ca-87a1-cdf048268fc0)
